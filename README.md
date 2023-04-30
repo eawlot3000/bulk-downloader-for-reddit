@@ -1,5 +1,5 @@
-# MY OWN USAGE FOR MAC OS
-```bash
+# MY OWN USAGE
+1. ```bash
 bdfr download ~/ --user lizzys_playlist --submitted
 ```
 --> this will download all the post media of the user `[lizzys_playlist]` to the location `[~/]`, and will saved to different folder according to the subreddit name of the media submitted to.
